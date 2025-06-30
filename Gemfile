@@ -5,7 +5,7 @@ ruby '3.2.2' # or your Ruby version
 
 gem 'rails', '~> 7.0.0'
 gem 'pg', '~> 1.5.9'
-gem 'puma', '~> 5.0'
+gem 'puma', '~> 6.6'
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'devise'
 gem 'devise-jwt'
